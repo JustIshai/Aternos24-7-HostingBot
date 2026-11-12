@@ -177,7 +177,7 @@ app.get('/', (req, res) => {
       </head>
       <body>
         <div class="container">
-          <h1>🤖 ${config.name}</h1>
+          <h1>JumpCloud Afk Bot</h1>
           
           <div class="card">
             <div class="label">Status</div>
