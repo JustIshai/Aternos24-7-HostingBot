@@ -205,8 +205,8 @@ app.get('/', (req, res) => {
           </div>
 
           <div class="card">
-            <div class="label">Server</div>
-            <div class="value" style="font-size: 1.1rem; color: #5eead4;">Forked By Ishai</div>
+            <div class="label">Credits</div>
+            <div class="value" style="font-size: 1.1rem; color: #5eead4;">Forked By Ishai Made By MrJuice3046</div>
           </div>
 
           <a href="/tutorial" class="btn">📘 View Setup Guide</a>
