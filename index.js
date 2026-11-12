@@ -204,6 +204,11 @@ app.get('/', (req, res) => {
             <div class="value" style="font-size: 1.1rem; color: #5eead4;">${config.server.ip}</div>
           </div>
 
+          <div class="card">
+            <div class="label">Server</div>
+            <div class="value" style="font-size: 1.1rem; color: #5eead4;">Forked By Ishai</div>
+          </div>
+
           <a href="/tutorial" class="btn">📘 View Setup Guide</a>
           
           <div class="footer">Auto-refreshing every 5s</div>
